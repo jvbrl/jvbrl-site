@@ -107,3 +107,10 @@ footer p a {
 footer p a:hover {
     text-decoration: underline;
 }
+
+.jvbrl img {
+  max-width: 45px;
+  text-align: center;
+  margin-top: 20px;
+  margin-right: 55px;
+}
